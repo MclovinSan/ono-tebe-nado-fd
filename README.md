@@ -1,1 +1,0 @@
-https://github.com/MclovinSan/ono-tebe-nado-fd
