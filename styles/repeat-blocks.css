@@ -1,4 +1,4 @@
-.white_block {
+.width_block {
   width: 1100px;
   background: #fff
 }
@@ -30,5 +30,16 @@
 
 .links-list-item:nth-of-type(1) {
   padding-left: 0;
+}
+
+.li-link-active {
   text-decoration: none;
+}
+
+.overlay {
+  flex: 1;
+  position: relative;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 3;
+  color: white;
 }
