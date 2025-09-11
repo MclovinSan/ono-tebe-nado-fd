@@ -25,6 +25,7 @@
 }
 
 .adress-header {
+  font-style: normal;
   padding: 0 36px 10px 0;
   justify-self: right;
 }
@@ -197,10 +198,11 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 0 50px;
+  padding: 0 50px 81px;
 }
 
 .footer_adress {
+  font-style: normal;
   font-size: 18px;
 }
 
